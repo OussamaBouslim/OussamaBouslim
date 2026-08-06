@@ -4,7 +4,7 @@
 
 ---
 
-## 🔗 À propos de moi
+##  À propos de moi
 
 - 🎓 **Master Data Science** — École Normale Supérieure de Tétouan (ENST)
 - 💼 Actuellement en **stage PFE Data Scientist / AI Engineer** chez **Efficient Technology** (Casablanca)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -37,15 +37,16 @@
 
 ---
 
-## 🚀 Projets phares
+##  Projets phares
 
 | # | Projet | Description |
 |---|---|---|
 | 1 | **[fleet-ai-extraction](https://github.com/OussamaBouslim/fleet-ai-extraction)** | 🚗 **Chatbot IA** + pipeline **NLP** : d'un SMS/email (français · darija) à une intervention optimisée. LLM **Qwen2.5 fine-tuné** (LoRA), extraction NER + moteur d'optimisation + création automatique. Interface conversationnelle de démonstration en temps réel. |
-| 2 | **[projet-embarque](https://github.com/OussamaBouslim/projet-embarque)** | 🩺 **Edge AI** : détection de pneumonie compressée via **8 techniques** (quantization + pruning), déployée sur 3 dispositifs IoT contraints, vote collectif + supervision **ThingsBoard**. |
-| 3 | **[Mern-Project](https://github.com/OussamaBouslim/Mern-Project)** | 🌐 Application web **full-stack MERN** de gestion des postes — CRUD, **authentification JWT**, interface **React** réactive, livrée en production. (MongoDB · Express · React · Node.js) |
-| 4 | **[AmestanProject](https://github.com/OussamaBouslim/AmestanProject)** | 🖥️ Application web **e-commerce en PHP / Symfony** (MVC) — catalogue, gestion des données et architecture back-end. |
-| 5 | **[Design_Pattern_Implementation](https://github.com/OussamaBouslim/Design_Pattern_Implmentation)** | ☕ Implémentation de **design patterns** en **Java** (génie logiciel). |
+| 2 | **[Classification-panneaux-LiDAR](https://github.com/OussamaBouslim/Classification-panneaux-LiDAR)** | 🛰️ **Computer Vision 3D** : détection & classification de panneaux urbains sur **nuages de points LiDAR** via **PointNet** (TensorFlow/Keras), avec **visualisation 3D interactive** (FastAPI · React · Three.js). |
+| 3 | **[projet-embarque](https://github.com/OussamaBouslim/projet-embarque)** | 🩺 **Edge AI** : détection de pneumonie compressée via **8 techniques** (quantization + pruning), déployée sur 3 dispositifs IoT contraints, vote collectif + supervision **ThingsBoard**. |
+| 4 | **[Mern-Project](https://github.com/OussamaBouslim/Mern-Project)** | 🌐 Application web **full-stack MERN** de gestion des postes — CRUD, **authentification JWT**, interface **React** réactive, livrée en production. (MongoDB · Express · React · Node.js) |
+| 5 | **[AmestanProject](https://github.com/OussamaBouslim/AmestanProject)** | 🖥️ Application web **e-commerce en PHP / Symfony** (MVC) — catalogue, gestion des données et architecture back-end. |
+| 6 | **[Design_Pattern_Implementation](https://github.com/OussamaBouslim/Design_Pattern_Implmentation)** | ☕ Implémentation de **design patterns** en **Java** (génie logiciel). |
 
 ---
 
