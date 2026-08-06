@@ -6,7 +6,7 @@
 
 ## 🔗 À propos de moi
 
-- 🎓 **Master Data Science** — ENS, Université Abdelmalek Essaâdi (Martil / Tétouan)
+- 🎓 **Master Data Science** — École Normale Supérieure de Tétouan (ENST)
 - 💼 Actuellement en **stage PFE Data Scientist / AI Engineer** chez **Efficient Technology** (Casablanca)
 - 🧠 Focalisé sur le **NLP**, le **fine-tuning de LLM** (Qwen, LoRA), l'**Edge AI** et l'**optimisation de modèles**
 - ⚙️ J'aime construire des systèmes **de bout en bout** : de la donnée brute au produit déployé (FastAPI, Docker, Ollama)
@@ -41,13 +41,11 @@
 
 | # | Projet | Description |
 |---|---|---|
-| 1 | **[fleet-ai-extraction](https://github.com/OussamaBouslim/fleet-ai-extraction)** | 🚗 Pipeline **NLP** : d'un SMS/email (français · darija) à une intervention optimisée. LLM **Qwen2.5 fine-tuné** (LoRA), extraction NER + moteur d'optimisation + création automatique. |
+| 1 | **[fleet-ai-extraction](https://github.com/OussamaBouslim/fleet-ai-extraction)** | 🚗 **Chatbot IA** + pipeline **NLP** : d'un SMS/email (français · darija) à une intervention optimisée. LLM **Qwen2.5 fine-tuné** (LoRA), extraction NER + moteur d'optimisation + création automatique. Interface conversationnelle de démonstration en temps réel. |
 | 2 | **[projet-embarque](https://github.com/OussamaBouslim/projet-embarque)** | 🩺 **Edge AI** : détection de pneumonie compressée via **8 techniques** (quantization + pruning), déployée sur 3 dispositifs IoT contraints, vote collectif + supervision **ThingsBoard**. |
-| 3 | **[Credit-Card-ML](https://github.com/OussamaBouslim/Cr-dit_card_project_machineLearning)** | 💳 Détection de fraude par carte bancaire — **Machine Learning** sur données transactionnelles déséquilibrées. |
-| 4 | **[Mini_Projet_MOO](https://github.com/OussamaBouslim/Mini_Projet_MOO)** | 📈 **Optimisation multi-objectifs** — méthodes de recherche opérationnelle. |
-| 5 | **[Mern-Project](https://github.com/OussamaBouslim/Mern-Project)** | 🌐 Application web **full-stack MERN** (MongoDB · Express · React · Node.js). |
-| 6 | **[AmestanProject](https://github.com/OussamaBouslim/AmestanProject)** | 🖥️ Application web **PHP** — développement back-end et gestion de données. |
-| 7 | **[Design_Pattern_Implementation](https://github.com/OussamaBouslim/Design_Pattern_Implmentation)** | ☕ Implémentation de **design patterns** en **Java** (génie logiciel). |
+| 3 | **[Mern-Project](https://github.com/OussamaBouslim/Mern-Project)** | 🌐 Application web **full-stack MERN** de gestion des postes — CRUD, **authentification JWT**, interface **React** réactive, livrée en production. (MongoDB · Express · React · Node.js) |
+| 4 | **[AmestanProject](https://github.com/OussamaBouslim/AmestanProject)** | 🖥️ Application web **e-commerce en PHP / Symfony** (MVC) — catalogue, gestion des données et architecture back-end. |
+| 5 | **[Design_Pattern_Implementation](https://github.com/OussamaBouslim/Design_Pattern_Implmentation)** | ☕ Implémentation de **design patterns** en **Java** (génie logiciel). |
 
 ---
 
