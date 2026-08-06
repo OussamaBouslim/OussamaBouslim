@@ -39,12 +39,15 @@
 
 ## 🚀 Projets phares
 
-| Projet | Description |
-|---|---|
-| **[fleet-ai-extraction](https://github.com/OussamaBouslim/fleet-ai-extraction)** | 🚗 Pipeline **NLP** : d'un SMS/email (français · darija) à une intervention optimisée. LLM **Qwen2.5 fine-tuné** (LoRA), extraction NER + moteur d'optimisation + création automatique. |
-| **[projet-embarque](https://github.com/OussamaBouslim/projet-embarque)** | 🩺 **Edge AI** : détection de pneumonie compressée via **8 techniques** (quantization + pruning), déployée sur 3 dispositifs IoT contraints, vote collectif + supervision **ThingsBoard**. |
-| **[Credit-Card-ML](https://github.com/OussamaBouslim/Cr-dit_card_project_machineLearning)** | 💳 Détection de fraude par **Machine Learning** — modélisation et évaluation sur données transactionnelles. |
-| **[Mini_Projet_MOO](https://github.com/OussamaBouslim/Mini_Projet_MOO)** | 📈 Optimisation multi-objectifs. |
+| # | Projet | Description |
+|---|---|---|
+| 1 | **[fleet-ai-extraction](https://github.com/OussamaBouslim/fleet-ai-extraction)** | 🚗 Pipeline **NLP** : d'un SMS/email (français · darija) à une intervention optimisée. LLM **Qwen2.5 fine-tuné** (LoRA), extraction NER + moteur d'optimisation + création automatique. |
+| 2 | **[projet-embarque](https://github.com/OussamaBouslim/projet-embarque)** | 🩺 **Edge AI** : détection de pneumonie compressée via **8 techniques** (quantization + pruning), déployée sur 3 dispositifs IoT contraints, vote collectif + supervision **ThingsBoard**. |
+| 3 | **[Credit-Card-ML](https://github.com/OussamaBouslim/Cr-dit_card_project_machineLearning)** | 💳 Détection de fraude par carte bancaire — **Machine Learning** sur données transactionnelles déséquilibrées. |
+| 4 | **[Mini_Projet_MOO](https://github.com/OussamaBouslim/Mini_Projet_MOO)** | 📈 **Optimisation multi-objectifs** — méthodes de recherche opérationnelle. |
+| 5 | **[Mern-Project](https://github.com/OussamaBouslim/Mern-Project)** | 🌐 Application web **full-stack MERN** (MongoDB · Express · React · Node.js). |
+| 6 | **[AmestanProject](https://github.com/OussamaBouslim/AmestanProject)** | 🖥️ Application web **PHP** — développement back-end et gestion de données. |
+| 7 | **[Design_Pattern_Implementation](https://github.com/OussamaBouslim/Design_Pattern_Implmentation)** | ☕ Implémentation de **design patterns** en **Java** (génie logiciel). |
 
 ---
 
