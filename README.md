@@ -1,19 +1,19 @@
 <h1 align="center">Salut, je suis Oussama BOUSLIM 👋</h1>
 
-<p align="center"><b>Data Science | Intelligence Artificielle | NLP · Building AI that ships</b></p>
+<p align="center"><b>Data Science | Intelligence Artificielle | NLP  · Building AI that ships</b></p>
 
 ---
 
 ##  À propos de moi
 
-🎓 Master Data Science — École Normale Supérieure de Tétouan (ENST)
-🎓 Licence — Ingénierie des Systèmes Informatiques et Logiciels — École Supérieure de Technologie, Essaouira (ESTE)
-🎓 DUT — Informatique Décisionnelle & Sciences des Données — ESTE, Essaouira
-💼  Data Scientist / AI Engineer — PFE réalisé chez Efficient Technology (Casablanca)
-🧠 Focalisé sur le NLP, le fine-tuning de LLM , l'Edge AI et l'optimisation de modèles
-⚙️ J'aime construire des systèmes de bout en bout : de la donnée brute au produit déployé (FastAPI, Docker, Ollama)
-🇲🇦 Français · Arabe · Darija · English
-🤝 Ouvert aux échanges sur la data, l'IA et Web appliquée et les projets collaboratifs
+- 🎓 **Master Data Science** — École Normale Supérieure de Tétouan (ENST)
+- 🎓 **Licence — Ingénierie des Systèmes Informatiques et Logiciels** — École Supérieure de Technologie, Essaouira (ESTE)
+- 🎓 **DUT — Informatique Décisionnelle & Sciences des Données** — ESTE, Essaouira
+- 💼 **Data Scientist / AI Engineer** — PFE réalisé chez **Efficient Technology** (Casablanca)
+- 🧠 Focalisé sur le **NLP**, le **fine-tuning de LLM** , l'**Edge AI** et l'**optimisation de modèles**
+- ⚙️ J'aime construire des systèmes **de bout en bout** : de la donnée brute au produit déployé (FastAPI, Docker, Ollama)
+- 🇲🇦 Français · Arabe · Darija · English
+- 🤝 Ouvert aux échanges sur la data, l'IA appliquée et les projets collaboratifs
 
 ---
 
